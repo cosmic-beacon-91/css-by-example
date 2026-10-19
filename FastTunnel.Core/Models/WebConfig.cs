@@ -27,3 +27,5 @@ namespace FastTunnel.Core.Models
         public string[] WWW { get; set; }
     }
 }
+
+// 8940b0
